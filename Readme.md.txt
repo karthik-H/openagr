@@ -1,6 +1,3 @@
-Download .RAR password file from here:
-
-https://adf.ly/1igU8Y
-
->>> Click on "Skip the ADD" top right
->>> And Download the password file
+This is an agriculture based project 
+to remove mediators and increase the 
+profit for farmers.
